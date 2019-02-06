@@ -1,0 +1,36 @@
+#firstdiv{
+    border: 5px solid #666;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p{
+    color: brown;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.passus{
+    text-align: justify;
+    border-left: 4px solid #666;
+    padding: 10px;
+}
+
+article{
+    text-align: justify;
+}
+
+
+.firstarticle{
+    padding: 15px;
+    border-bottom: 1px solid #cccccc;
+}
+
+
+#date{
+    color: brown;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+} 
